@@ -12,7 +12,7 @@ First, fork this repo.
 
 Then, add your dotfiles:
 
-    $ git clone git@github.com:username/dotfiles.git .dotfiles
+    $ git clone git@github.com:devaudio/dotfiles.git .dotfiles
     $ cd .dotfiles
     $  # edit files
     $  # edit files
@@ -21,7 +21,7 @@ Then, add your dotfiles:
 Finally, to install your dotfiles onto a new system:
 
     $ cd $HOME
-    $ git clone git@github.com:username/dotfiles.git .dotfiles
+    $ git clone git@github.com:devaudio/dotfiles.git .dotfiles
     $ ./.dotfiles/bin/dfm install # creates symlinks to install files
 
 ## Full documentation
